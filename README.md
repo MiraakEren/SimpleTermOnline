@@ -6,6 +6,8 @@
 
 1. **Download the Executable**
    - Obtain the `.exe` file from the link provided below.
+  1.1 Optional Step
+     Place the executable in a dedicated folder with the key file to keep the files organized.
 
 2. **Enter Sheet ID**
    - Input the Sheet ID, which can be found in the URL between "d/" and "/edit?...".
